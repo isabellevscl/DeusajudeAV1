@@ -1,0 +1,229 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+#master{
+    width: 100%;
+    height: 650px;
+    background-image: url(https://img.freepik.com/fotos-gratis/blur-park-com-bokeh-light-background-natureza_7190-790.jpg?w=996);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #749968;
+}
+
+.logo img {
+    width: 270px;
+    height: 90px;
+    position: absolute;
+    margin-left: 35%;  
+    margin-right: 50%;
+       
+}
+
+h1{
+    text-align: center;
+    font-size: 64px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #749968;
+}
+
+h3{
+    text-align: center;
+    font-family: Arial;
+    color:#749968
+}
+
+.form input[type=text]{
+    margin-left: 12%;
+    width: 320px;
+    height: 50px;
+    border-radius: 4px;
+    padding-left: 1%;
+    
+}
+
+.form input[type=email]{
+    margin-left: 1%;
+    width: 320px;
+    height: 50px;
+    border-radius: 4px;
+    padding-left: 1%;
+    
+}
+
+.form input[type=submit]{
+    margin-left: 1%;
+    background-color: #749968;
+    width: 250px;
+    height: 50px;
+    border-radius: 4px;
+}
+
+.logos img{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 3%;    
+}
+
+#master2{
+    background-color: #749968;
+    background-size: 100%;
+    height: auto;
+    margin-top: 0%;
+    width: 100%;
+}
+
+.texto h2{
+    text-align:center;
+    font-family: Arial;
+    color:#eaeba6 ;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.row img{
+    border-radius: 50%;
+    width: 85px;
+    height: 85px;
+    display: inline-block ;
+    margin-top: 5%;
+}
+
+.feature p{
+    display: inline-block;
+   font-size: 15px; 
+   color: #eaeba6 ;
+   margin-top: 20%;
+}
+
+span{
+    font-family: Arial;
+    font-weight: bold;   
+}
+
+
+.about h2{
+    display: inline-block;
+    margin-top: 20%;
+    font-weight: bold;
+    color: #eaeba6;
+    font-family: arial;
+    font-size: 35px;
+    margin-right: 20%;
+}
+
+.about p{
+    color: #eaeba6;
+    font-size: 20px;
+    margin-right: 20%;
+}
+
+.imagem img{
+    height: 350px;
+    width: 600px;
+    border-radius: 2%;
+}
+
+.how h2{
+    display: inline-block;
+    font-weight: bold;
+    color: #eaeba6;
+    font-family: arial;
+    font-size: 35px;
+    margin-left: 24%;
+}
+
+ul{
+    color: #eaeba6;
+    font-size: 16px;
+    margin-left: 20%;
+    font-family: arial;
+    line-height: 40px;
+}
+
+.container1 p{
+    text-align: center;
+    color: #eaeba6;
+    line-height: 30px;
+    font-family: Arial;
+    margin-top: 1.5%;
+    font-size: 16px;
+}
+
+.container1 h2{
+    font-weight: bold;
+    margin-top: 10%;
+    font-size: 35px;
+    text-align: center;
+    color: #eaeba6;
+    font-family: arial;
+}
+
+.container1 img{
+    border-radius: 80%;
+    height: 5%;
+    width: 5%;
+}
+
+.container2 h2{
+    color: #eaeba6;
+    text-align: center;
+    margin-top: 10%;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.container2 p{
+    color: #eaeba6;
+    text-align: center;
+    margin-top: 2%;
+    font-family: arial;
+    font-size: 18px;
+}
+
+.form1 input[type=submit]{
+    margin-left: 1%;
+    background-color: #749968;
+    width: 250px;
+    height: 50px;
+    border-radius: 4px;
+    margin-bottom: 5%;
+    display: inline-block;
+}
+
+.form1 input[type=text]{
+    margin-left: 13%;
+    width: 320px;
+    height: 50px;
+    border-radius: 4px;
+    padding-left: 1%;
+    display: inline-block;
+    
+}
+
+.form1 input[type=email]{
+    margin-left: 1%;
+    width: 320px;
+    height: 50px;
+    border-radius: 4px;
+    padding-left: 1%;
+    display: inline-block;   
+}
+
+#rodape img{
+    height: 70px;
+    width: 197px;
+
+}
+
+#rodape p{
+    float: right;
+    color: #eaeba6;
+    font-family: arial;
+}
