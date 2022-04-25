@@ -18,7 +18,7 @@
     width: 270px;
     height: 90px;
     position: absolute;
-    margin-left: 35%;  
+    margin-left: 32%;  
     margin-right: 50%;
        
 }
@@ -169,6 +169,7 @@ ul{
     border-radius: 80%;
     height: 5%;
     width: 5%;
+    
 }
 
 .container2 h2{
